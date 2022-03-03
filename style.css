@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.img {
+    width: 550px;
+    padding: 30px 10px 10px 10px;
+    margin: auto;
+    border: solid;
+    border-radius: 10px;
+    border-color: #787878;
+    background-color: #f3f3f3; 
+}
+
+img {
+    border-radius: 10px;
+}
+
