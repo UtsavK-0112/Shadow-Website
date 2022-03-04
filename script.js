@@ -2,7 +2,7 @@ function bark() {
     alert("Woof");
 }
 
-shadow = document.getElementById("bark");
+let shadow = document.getElementById("bark");
 
-shadow.onclick = bark();
+shadow.onclick = bark;
 
